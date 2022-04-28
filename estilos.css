@@ -1,0 +1,57 @@
+#nav{
+    width: 100%;
+}
+
+tr{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    color: red;
+    font-family: cursive;
+    font-size: 40px;
+    margin: 0;
+}
+
+h2{
+    text-align: center;
+    color: red;
+}
+
+#img-center img{
+    width: 85%;
+}
+
+.tabela-cat{
+    margin: auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    background-color: rgba(128, 0, 0, 0.11);
+    width: 70%;
+    border: dashed;
+}
+
+.tabela-cat td{
+    width: 25%;
+}
+
+.imagens-fim{
+    margin: auto;
+    width: 96%;
+    height: 25%;
+}
+
+.imagens-fim td{
+    width: 12%;
+}
+
+img {
+    width: 100%;
+    height: 100%;
+}
+
+footer{
+    text-align: center;
+    font-style: italic;
+}
